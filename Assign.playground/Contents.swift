@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-
+//Semana 1
 
 var rg = 0...100
 
